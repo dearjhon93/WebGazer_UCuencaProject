@@ -1,0 +1,10 @@
+
+- Start local server in project folder.
+
+Use terminal and write:
+	python -m http.server 8000
+
+Note: This works with Python 3.x on the system.
+
+
+
